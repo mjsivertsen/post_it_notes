@@ -12,6 +12,7 @@ const NewNote = () => {
         <input name="note[description]"/>
         <button type="submit">ADD NOTE</button>
       </form>
+      <a href="/">back to notes</a>
     </div> 
   );
 };
